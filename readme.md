@@ -1,4 +1,5 @@
 Simplex - Interview on July 9th, 10:30, see in mail
+eXalate - Interview on July 10th, 10:30, see in mail
 Soluto - Interview on July 17th, 9:00, see in mail
 Genoox - Interview on July 19th, 5:00pm, see in mail
 Sealights - Interview on July 26th, 8:30am, SEND HER CV ASAP, see in mail
@@ -33,9 +34,8 @@ Cybereason - Checking me out on WOO
 Pyramid Analytics - On hold do to NOV
 Playbuzz LTD - REJECTED - looking for someone with more XP
 Elbit LTD - REJECTED - looking for someone with more XP
-Microsoft - contact Gilli in August (you have his email)
+Microsoft - contact Gilli in August (you have his email), talk with Amos or Aviram, Brumer?
 BigPanda - contact them in August
-eXalate - set and cancelled interview due to NOV, contact them in August
 InVision(Muzli) - Checking me out on WOO
 Guesty - Checking me out on WOO
 Adva Optical Networking - Checking me out on WOO
@@ -49,9 +49,23 @@ Mobilize - Checking me out on WOO
 Loom Systems - position is ON HOLD
 SKYLINE AI - Position already taken
 Tipalti - Checking me out on WOO
-Wix - Checking me out on WOO, CONTACT DVIR COOPER ON MID JULY
+Wix - Checking me out on WOO, CONTACT DVIR COOPER ON MID JULY (OR Tal)
 Proofpoint - Checking me out on WOO
 Google - SEND YOUR CV TO SHAHAR SHIMONI AND CALL HIM
 Giva - Send OREN your CV
 Varonis - send DAGAN your CV
 Kaltura - send MOSH your CV
+
+IDEAS
+Perception Point - check with BENTZI
+Apple - check mail from Tomer
+Facebook - CONTACT THEM
+Amazon - CONTACT THEM
+Intel - Contact Galool, Menach or Ofir if you want
+Riskified - contact Cubon if you want
+Pepper - contact Shukon
+
+FURTHER IDEAS
+Perion
+PayPal
+AT&T
